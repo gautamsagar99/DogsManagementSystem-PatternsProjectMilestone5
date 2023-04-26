@@ -47,17 +47,11 @@
 			<scope>test</scope>
 		</dependency>
 		<dependency>
-			<groupId>com.gautamClasses</groupId>
-			<artifactId>DogDemo</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
-		<dependency>
- 			<groupId>org.postgresql</groupId>
- 			<artifactId>postgresql</artifactId>
- 			<scope>runtime</scope>
-		</dependency>
+ <groupId>org.postgresql</groupId>
+ <artifactId>postgresql</artifactId>
+ <scope>runtime</scope>
+</dependency>
 
-		
 	</dependencies>
 
 	<build>
